@@ -115,7 +115,7 @@ const jay = {
 
 <div align="center">
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JayyyyWRLD&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=F778BA&area=true&area_color=6E40C9&hide_border=false&border_color=6E40C9&custom_title=Contribution%20Transmission" alt="JayyyyWRLD contribution graph" />
+
 
 </div>
 
