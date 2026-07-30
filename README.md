@@ -21,11 +21,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="42" height="42" />
 </div>
-
----
-
-<div align="center">
-
-### Welcome to my WRLD 🌌
-
-</div>
