@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Languages and Tools I Use
+## Languages and Tools I Use
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
