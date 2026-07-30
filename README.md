@@ -129,16 +129,24 @@ const jay = {
     <tr>
       <td align="center">
         <a href="https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg">
-          <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0200702474f8e0e2b6155d48e3" width="145" alt="About You album cover" />
+          <svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <clipPath id="albumArtClip">
+                <rect x="4" y="4" width="152" height="152" rx="24" ry="24" />
+              </clipPath>
+            </defs>
+            <rect x="2" y="2" width="156" height="156" rx="26" ry="26" fill="#0D1117" stroke="#6E40C9" stroke-width="2" />
+            <image href="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0200702474f8e0e2b6155d48e3" x="4" y="4" width="152" height="152" clip-path="url(#albumArtClip)" preserveAspectRatio="xMidYMid slice" />
+          </svg>
         </a>
       </td>
       <td width="330">
-        <img src="https://img.shields.io/badge/NOW%20PLAYING-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Now playing" />
+        <img src="https://img.shields.io/badge/NOW%20PLAYING-1DB954?style=flat&logo=spotify&logoColor=white" alt="Now playing" />
         <h3>About You</h3>
         <p><b>The 1975</b></p>
         <p><sub>Being Funny in a Foreign Language • 2022</sub></p>
         <a href="https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg">
-          <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20IN%20SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open About You in Spotify" />
+          <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20IN%20SPOTIFY-1DB954?style=flat&logo=spotify&logoColor=white" alt="Open About You in Spotify" />
         </a>
       </td>
     </tr>
